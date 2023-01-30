@@ -1,0 +1,18 @@
+Comparaisson diff traj
+	Vérifier Resol var Vb Vh
+
+Quantifie Distance vs Temps Calcule
+	Continuer avec résol var (Oui/non)
+
+	Prologer la courbe vers une dist faible 1, 2 ... 10
+	Point intermediere Resol Var
+	WBS (Work Beaking system) Dependance/Durée/ Durée(?)
+
+Rapport
+
+Papier? 
+
+E2E3E4
+
+Estimation de la consommation avec solution du modèle dynamique non linaire
+	

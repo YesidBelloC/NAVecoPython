@@ -1,0 +1,38 @@
+E1: Quantifier uniquement l’impact de l’échantillonnage de la pente sur la consommation d’énergie.
+
+	Exploration lineaire 1 : 20
+	Analyse frequencielle
+	
+	Analise implentation
+	Exploration stabilité
+	Dichotomie
+Valeur Minimale?
+
+E2: Quantifier uniquement l’impact de la Pente sur la consommation d’énergie
+
+Comparatif Point per point/cte/
+
+   Slope(m)->Pente(s):
+	Type de interpolation    
+   Trajet:
+	Max ceil pente
+	Méthode correcte
+    
+E3+4: Quantifier uniquement l’impact de la stratégie de segmentation utilisant le critère Pente sur la consommation d’énergie
+
+   Segmentation a differentes velaurs (Exploration lineaire)
+   Segmentation binaire (valeures positives et negatives)
+   Segmentation sur la variation de la moyenne
+
+E4+5: Quantifier uniquement l’impact du choix de la valeur seuil du critère Pente sur la consommation d’énergie
+      Quantifier uniquement l’impact de la stratégie de segmentation utilisant le critère Vitesse sur la consommation d’énergie
+
+   Segmentation basique
+   Segmentation vitesse moyenne (Faire acceleration et desceleration pour mantenir la vitesse moyenne)
+	
+
+Conclusion
+	Mas frenadas es mas recuperacion de energia
+        Podemos calcular el consumo de energie apriori y trabajerlo como referencia (Ecuation differentielle solution non lineare)
+	Debemos modular los pesos de la energia y la distancia en tiempo real. Una forma puede contemplar el calculo de la vel media reauerida.
+        
